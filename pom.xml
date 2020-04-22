@@ -11,6 +11,9 @@
     <modules>
         <module>eurekaserver</module>
         <module>account</module>
+        <module>menu</module>
+        <module>user</module>
+        <module>order</module>
     </modules>
 
     <!--引入SpringBoot依赖 -->
